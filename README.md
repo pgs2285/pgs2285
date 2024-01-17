@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=ParkJiSung-KSNU)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=ParkJiSung)
 </div>
 <!--
 **pgs2285/pgs2285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
