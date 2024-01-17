@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Park_JiSung_KSNU)
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgs2285&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgs2285&show_icons=true&theme=radical)
 
 
 <!--
