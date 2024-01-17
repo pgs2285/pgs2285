@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Park_JiSung_KSNU)
 </div>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgs2285&show_icons=true&theme=radical)
 
 
 <!--
